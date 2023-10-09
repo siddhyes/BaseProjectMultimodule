@@ -1,0 +1,2 @@
+# BaseProjectMultimodule
+MultiModuleBase Project
